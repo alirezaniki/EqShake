@@ -1,6 +1,6 @@
 # EqShake
 
-The accurate estimation of earthquake magnitude is crucial for assessing seismic hazards and ensuring effective disaster mitigation strategies. **EqShake** is a deep-learning model for accurate earthquake magnitude estimation utilizing single-station raw waveforms. As opposed to other available models, **EqShake** is designed to be independent of waveform length, applicable to waveforms recorded at local scales (<3 deg).
+The accurate estimation of earthquake magnitude is crucial for assessing seismic hazards and ensuring effective disaster mitigation strategies. **EqShake** is a deep-learning model for accurate earthquake magnitude estimation utilizing single-station raw waveforms. As opposed to other available models, **EqShake** is designed to be independent of waveform length, applicable to events recorded at local scales (<3 deg).
 
 Model Structure
 --
