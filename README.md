@@ -12,7 +12,7 @@ Model Structure
 
 Model Performance
 --
-The test data included here consists of 30k samples. **EqShake** demonstrates excellent performance with R2-score= 0.93, MSE= 0.037, Mean= 0.0, and std= 0.22. 
+The test dataset included here consists of 30k samples. **EqShake** demonstrates excellent performance with R2-score= 0.93, MSE= 0.037, Mean= 0.0, and std= 0.22. 
 
 <div id="header" align="center">
   <img src='predictions.jpg' width='500'>
